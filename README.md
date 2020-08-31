@@ -8,9 +8,14 @@ Jingyu Wang: captaindadwang@gmail.com
 Teacher:  
 Shuo Zhang: 870622658@qq.com  
 
-**Table of Contents**
-[Introduction](##Introduction)
-
+**Table of Contents**  
+[Introduction](##Introduction)  
+[Data Preprocessing (includes EDA and Feature Engineering)](##Data Preprocessing)  
+[Algorithms](##Algorithms)  
+[Tuning Parameters](##Tuning Parameters)  
+[Model Ensemble](##Model Ensemble)  
+[Final Scale](##Final Scale)  
+[Review](##Review)
 
 ## Introduction
   This is an exhaustive report for Kaggle-M5-Accuracy ended in July 1th. Background information is presented [here](https://www.kaggle.com/c/m5-forecasting-accuracy). 
@@ -28,3 +33,5 @@ Shuo Zhang: 870622658@qq.com
 ## Model Ensemble
 
 ## Final Scale
+
+## Review
