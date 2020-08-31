@@ -1,5 +1,5 @@
 # Kaggle-M5-Accuracy
-Project Participants:
+Project Participants:  
 Qingwei Meng: webermeng@gmail.com  
 Wenyin Gu: wenying.gu@vanderbilt.edu  
 Liyang Chen: smylc1@gmail.com  
